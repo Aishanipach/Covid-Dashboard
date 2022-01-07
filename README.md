@@ -1,5 +1,5 @@
 # Covid Dashboard📊
-<h3>This is a React based dashboard to showcase live COVID-19 infected cases.</h3>
+<h3>This is a React based dashboard to showcase live worldwide and country-specific COVID-19 infected cases.</h3>
 
 ![](https://github.com/Aishanipach/Covid-dashboard/blob/newtest/Firebase_deployed.JPG)
 
