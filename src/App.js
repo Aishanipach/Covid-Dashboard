@@ -141,6 +141,3 @@ function App() {
 }
 
 export default App;
-
-// 2:40 LineGraph
-// 4:16 Currently
