@@ -4,6 +4,7 @@
 ![](https://github.com/Aishanipach/Covid-dashboard/blob/newtest/Firebase_deployed.JPG)
 
 ### Deployed here:  [Go to Firebase🔥](https://covid-19-app-2633a.web.app/)
+- (Reload once if leaflet map doesn't load on your device)
 
 ### Fetching real-time data from https://disease.sh/ </h2>
 
