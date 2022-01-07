@@ -6,7 +6,7 @@ import Infobox from "./Info/Infobox";
 import Mapbox from "./Map/Mapbox";
 import Table from "./Table/Table";
 import { sortData } from "./util";
-import LineGraph from "./Graph/LineGraph";
+
 function App() {
   const [countries, setCountries] = useState([]);
   const [defaultCountry, setDefaultCountry] = useState("Worldwide");
