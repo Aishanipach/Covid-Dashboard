@@ -3,9 +3,11 @@
 }
 
 body {
-  background-color: rgb(199, 204, 209);
+  background-color: #B6C9FF;
 }
 .Header {
+  font-size: 25px;
+  color: rgba(0, 0, 0, 0.87);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -39,3 +41,9 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.css-46bh2p-MuiCardContent-root:last-child {
+  background-color: aliceblue;
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input {
+background-color: #f0f8ff;}
