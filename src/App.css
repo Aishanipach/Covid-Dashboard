@@ -34,3 +34,8 @@ body {
     flex-direction: column;
   }
 }
+
+.containerRight{
+  display: flex;
+  flex-direction: column;
+}
